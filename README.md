@@ -1,16 +1,16 @@
 # MERN-Graphql-Demo
 
-## Table of Contents
+Table of Contents
 
-- [Big Picture](#Big)
+1. [Big Picture](#big-picture)
 
-- [How to Use This Guide](#How)
+2. [How to Use This Guide](#how-to-use-this-guide)
 
-- [The Path](#Path)
+3. [The Path](#the-path)
 
-- [Why we Branch](#Why)
+4. [Why We Branch](#why-we-branch)
 
-- [About The Author](#About)
+5. [About The Author](#about-corey)
 
 
 
